@@ -1,0 +1,12 @@
+.footer_info {
+  display: flex;
+  flex-direction: column;
+  gap: 24px;
+  margin-right: 134px;
+}
+.footer_info a {
+  font-size: 44px;
+}
+.footer_info span {
+  font-size: 12px;
+}

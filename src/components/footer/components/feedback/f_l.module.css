@@ -1,0 +1,18 @@
+.footer_feedback {
+  max-width: 200px;
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+  font-size: 14px;
+  font-weight: 400;
+}
+.footer_feedback a {
+  display: flex;
+  gap: 8px;
+  align-items: center;
+  font-size: 12px;
+}
+.footer_feedback span {
+  color: #ff6b00;
+  text-decoration: underline;
+}

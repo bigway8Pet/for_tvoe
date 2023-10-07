@@ -1,0 +1,35 @@
+.card {
+  width: 264px;
+  height: 295px;
+  padding-bottom: 12px;
+  display: flex;
+  flex-direction: column;
+  border-radius: 12px;
+  background-color: #ffffff;
+}
+.card_content {
+  padding: 0 12px;
+  display: flex;
+  flex-direction: column;
+  flex-grow: 1;
+}
+.info {
+  margin-bottom: 8px;
+}
+.info_image {
+  margin-bottom: 8px;
+}
+.info_image img {
+  border-radius: 12px;
+}
+.info_time {
+  font-size: 12px;
+  color: #848484;
+}
+
+.title {
+  margin-bottom: 16px;
+  flex-grow: 1;
+  font-weight: 500;
+  color: #333333;
+}

@@ -1,0 +1,9 @@
+.footer {
+  padding: 40px 36px;
+  display: flex;
+  background-color: #333333;
+  color: #ffffff;
+}
+.footer a {
+  color: #ffffff;
+}

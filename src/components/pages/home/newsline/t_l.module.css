@@ -1,0 +1,18 @@
+.newsline_section {
+  height: fit-content;
+  display: flex;
+  margin-bottom: 12px;
+}
+
+.newsline {
+  padding: 32px 0 0 32px;
+  display: flex;
+  flex-direction: column;
+  flex-grow: 1;
+  border-radius: 12px;
+  background-color: #ffffff;
+}
+.newsline h2 {
+  font-size: 28px;
+  font-weight: 500;
+}

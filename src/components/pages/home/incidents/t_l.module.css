@@ -1,0 +1,26 @@
+.incidents_section {
+  padding-top: 16px;
+}
+.incidents__title {
+  margin-bottom: 16px;
+  display: flex;
+  gap: 4px;
+  align-items: center;
+}
+.incidents__title_text {
+  margin-left: 32px;
+  font-size: 28px;
+  font-weight: 500;
+  color: #262626;
+}
+.incidents__cards {
+  display: flex;
+  gap: 12px;
+}
+.arrow_right_container {
+  height: 24px;
+  width: 24px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}

@@ -1,0 +1,17 @@
+.menu_item {
+  padding: 12px 20px;
+  display: flex;
+  gap: 12px;
+  align-items: center;
+  border-radius: 12px;
+  color: #262626;
+  cursor: pointer;
+}
+.menu_item__active {
+  background-color: #262626 !important;
+  color: #ffffff !important;
+}
+
+.menu_item:hover {
+  background-color: #eaeaea;
+}

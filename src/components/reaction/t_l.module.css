@@ -1,0 +1,21 @@
+.reactions {
+  display: flex;
+  gap: 8px;
+}
+.reaction {
+  height: 16px;
+  display: flex;
+  gap: 1px;
+  align-items: center;
+}
+.reaction__img {
+  height: 16px;
+  min-width: 16px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.reaction__count {
+  font-size: 14px;
+  color: #474747;
+}

@@ -1,0 +1,27 @@
+.read_also_section {
+  padding: 32px;
+  border-radius: 12px;
+  background-color: #ffffff;
+}
+.read_also__title {
+  margin-bottom: 24px;
+  display: flex;
+  gap: 4px;
+  align-items: center;
+}
+.read_also__title_text {
+  font-size: 28px;
+  font-weight: 500;
+  color: #262626;
+}
+.read_also__cards {
+  display: flex;
+  gap: 16px;
+}
+.arrow_right_container {
+  height: 24px;
+  width: 24px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}

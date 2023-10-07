@@ -1,0 +1,14 @@
+.menu {
+  min-width: 264px;
+  margin-right: 12px;
+}
+
+.menu_item:hover {
+  background-color: #eaeaea;
+}
+.menu_item__active {
+  background-color: #262626 !important;
+}
+.menu .menu_item__active {
+  color: #ffffff;
+}

@@ -1,0 +1,9 @@
+.content_item {
+  padding: 12px;
+  display: flex;
+  gap: 4px;
+  align-items: center;
+  background-color: #f2f2f2;
+  border: none;
+  border-radius: 40px;
+}

@@ -1,0 +1,10 @@
+.offer_news {
+  display: flex;
+  align-items: flex-end;
+}
+.offer_news button {
+  padding: 10px 16px;
+  border-radius: 8px;
+  background-color: #ff6b00;
+  color: #ffffff;
+}
